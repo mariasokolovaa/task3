@@ -3,7 +3,7 @@
 a=10
 b=2
  
-echo "$a + $b: $((a+b))"
+eho "$a + $b: $((a+b))"
 echo "$a - $b: $((a-b))"
 echo "$a * $b: $((a*b))"
 echo "$a / $b: $((a/b))"
